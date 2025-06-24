@@ -86,7 +86,7 @@ Arduino Uno Connections:
 ### 3\. Code Upload
 
 ```
-git clone 
+git clone https://github.com/melau-eddy/RFID_attendance_ARDUINO
 cd RFID-Based-Attendance-System-Using-Arduino
 
 ```
