@@ -240,12 +240,7 @@ We welcome contributions! Please follow these steps:
 -   Include comments for complex code sections
 
 
-🔗 Links
---------
 
--   **📖 Complete Tutorial**: [CircuitDigest - RFID Attendance System Guide](https://circuitdigest.com/microcontroller-projects/rfid-based-attendance-system-project-using-arduino)
--   **📚 More Arduino Projects**: [Circuit Digest Arduino Collection](https://circuitdigest.com/arduino-projects)
--   **🎓 RFID Tutorials**: [RFID Projects and Guides](https://circuitdigest.com/rfid-projects)
 
 ⭐ Support
 ---------
