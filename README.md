@@ -241,17 +241,6 @@ We welcome contributions! Please follow these steps:
 
 
 
-
-⭐ Support
----------
-
-If this project helped you, please ⭐ **star this repository** and share it with others!
-
-
-* * * * *
-
-**Built with ❤️ by [Circuit Digest](https://circuitdigest.com/) | Making Electronics Simple**
-
 * * * * *
 
 ### Keywords
