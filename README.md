@@ -63,7 +63,6 @@ Arduino Uno Connections:
 
 ```
 
-**📖 Complete Circuit Diagram:** [View Detailed Schematic](https://circuitdigest.com/microcontroller-projects/rfid-based-attendance-system-project-using-arduino)
 
 ⚙️ Installation
 ---------------
