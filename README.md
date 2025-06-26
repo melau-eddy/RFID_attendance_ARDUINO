@@ -1,7 +1,7 @@
 RFID Based Attendance System Using Arduino
 ==========================================
 
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT) [![CircuitDigest](https://img.shields.io/badge/Tutorial-CircuitDigest-blue?style=for-the-badge)](https://circuitdigest.com/microcontroller-projects/rfid-based-attendance-system-project-using-arduino)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT) 
 
 A complete **RFID based attendance system using Arduino** that automates employee and student attendance tracking with real-time logging, LCD display, and offline data storage capabilities.
 
